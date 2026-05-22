@@ -1,4 +1,6 @@
 
+
+Modified by [wildfirebill](https://github.com/wildfirebill)
 # Docker-ps2smb
 
 With this *container* you can share over the network your PlayStation 2 games stored on your PC or NAS to be opened by [OPL (OpenPS2Loader)](https://github.com/ps2homebrew/Open-PS2-Loader) can open them.
